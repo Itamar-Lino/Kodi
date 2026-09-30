@@ -14,7 +14,7 @@ const PAGE = 30;
 const SRC = {
   filmes: process.env.KOOFR_FILMES || "4640c985-cda4-4f31-bfb0-06bd1422a662",
   series: process.env.KOOFR_SERIES || "e26105d1-410c-4ec0-920e-b8c60bab3a44",
-  animes: process.env.KOOFR_ANIMES || "f7fe37b7-edb4-49e1-904a-9a466a158856"
+  animes: process.env.KOOFR_ANIMES || "2f929ba2-4c7e-4e5b-922a-b2380c57a21c"
 };
 
 // ---------- utilitários ----------
