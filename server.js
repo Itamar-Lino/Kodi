@@ -12,7 +12,7 @@ const PAGE = 30;
 
 // IDs dos links públicos do Koofr (podem ser trocados por variáveis de ambiente)
 const SRC = {
-  filmes: process.env.KOOFR_FILMES || "4640c985-cda4-4f31-bfb0-06bd1422a662",
+  filmes: process.env.KOOFR_FILMES || "2cddf8cb-b566-4d5a-9998-cff62ca03c25",
   series: process.env.KOOFR_SERIES || "05acd6ec-1282-474b-820c-1de03df4b67f",
   animes: process.env.KOOFR_ANIMES || "2f929ba2-4c7e-4e5b-922a-b2380c57a21c"
 };
